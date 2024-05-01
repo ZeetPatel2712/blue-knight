@@ -1,0 +1,21 @@
+{
+      "name": "blue-knight",
+      "displayName": "blue knight",
+      "description": "🌙 A cool and calm theme that will transport you to a peaceful world of code 💻🌟",
+      "version": "0.0.1",
+      "engines": {
+            "vscode": "^1.88.0"
+      },
+      "categories": [
+            "Themes"
+      ],
+      "contributes": {
+            "themes": [
+                  {
+                        "label": "blue knight",
+                        "uiTheme": "vs-dark",
+                        "path": "./themes/blue knight-color-theme.json"
+                  }
+            ]
+      }
+}
